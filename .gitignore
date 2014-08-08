@@ -2,3 +2,5 @@
 *.pyc
 *.xls*
 *.csv
+shp/*
+*.swp
