@@ -1,3 +1,4 @@
+#!/usr/bin/python
 __author__ = 'shaycraft'
 from LegalExploder import *
 import argparse
