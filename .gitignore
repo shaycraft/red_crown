@@ -3,4 +3,5 @@
 *.xls*
 *.csv
 shp/*
+!shp/README.md
 *.swp
